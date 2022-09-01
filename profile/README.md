@@ -4,7 +4,7 @@
 
 ## Description
 
-We have built a website for you that provides the ability to choose you own styling and have it printed on our great quality T-shirt. We have used MERN stack ( MongoDB, Express.js, React.js and Node.js ) building it.
+We have built a website for you that provides the ability to choose your own styling and have it printed on our great quality T-shirt. We have used MERN stack ( MongoDB, Express.js, React.js and Node.js ) building it.
 Today's main problem in the fashion industry that you may not find something that fits your style all the time, so we provided this solution for you AND only for you.
 
 ## Installation
